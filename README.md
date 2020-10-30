@@ -10,5 +10,5 @@ AND HERE YOU ARE READY TO USE THE WEBSITE.
 
 <p align="center">
   <img src="img/Screenshot (20).png" width="350" title="hover text">
-  <img src="img/Screenshot (20).png" width="350" alt="accessibility text">
+  <img src="img/Screenshot (21).png" width="350" alt="accessibility text">
 </p>

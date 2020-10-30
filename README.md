@@ -6,9 +6,11 @@ Generating and saving timetable as pdf using tcPDF.
 Note: CREATE DATABASE OF NAME 'datatable' AND IMPORT FILE OF NAME datatable.sql INTO IT. 
 AND HERE YOU ARE READY TO USE THE WEBSITE.
 
-![alt text](http://url/to/Screenshot (20).png)
-
+FOR LOGIN AND SIGNUP
 <p align="center">
-  <img src="img/Screenshot (20).png" width="350" title="hover text">
-  <img src="img/Screenshot (21).png" width="350" alt="accessibility text">
+  <img src="img/Screenshot (20).png" width="350" title="Login">
+  <img src="img/Screenshot (21).png" width="350" alt="Sign Up">
 </p>
+
+
+<img src="img/Screenshot (23).png" width="350" height="500">

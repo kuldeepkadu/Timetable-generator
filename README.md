@@ -21,10 +21,10 @@ AND HERE YOU ARE READY TO USE THE WEBSITE.
 </p>
 </li>
 <li> Fill the Subject Details and Practical details as per the Stream of the Subject)
-<p align="center">
-<img src="img/Screenshot (27).png" width="500">
-<img src="img/Screenshot (28).png" width="500">
-<img src="img/Screenshot (29).png" width="500">
+<p>
+<img src="img/Screenshot (27).png" width="450">
+<img src="img/Screenshot (28).png" width="450">
+<img src="img/Screenshot (29).png" width="450">
   </p>
   </li>
 <img src="img/Screenshot (30).png" width="500">

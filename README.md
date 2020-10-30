@@ -9,8 +9,8 @@ AND HERE YOU ARE READY TO USE THE WEBSITE.
 <ol>
   <li> FOR LOGIN AND SIGNUP
     <p align="center">
-      <img src="img/Screenshot (20).png" width="400" title="Login">
-      <img src="img/Screenshot (21).png" width="400" alt="Sign Up">
+      <img src="img/Screenshot (20).png" width="450" title="Login">
+      <img src="img/Screenshot (21).png" width="450" alt="Sign Up">
     </p>
    </li>
 
@@ -20,9 +20,13 @@ AND HERE YOU ARE READY TO USE THE WEBSITE.
 <img src="img/Screenshot (25).png" width="480">
 </p>
 </li>
+<li> Fill the Subject Details and Practical details as per the Stream of the Subject)
+<p align="center">
 <img src="img/Screenshot (27).png" width="500">
 <img src="img/Screenshot (28).png" width="500">
 <img src="img/Screenshot (29).png" width="500">
+  </p>
+  </li>
 <img src="img/Screenshot (30).png" width="500">
 <img src="img/Screenshot (31).png" width="500">
 <img src="img/Screenshot (32).png" width="500">

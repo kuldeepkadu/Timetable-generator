@@ -22,8 +22,8 @@ AND HERE YOU ARE READY TO USE THE WEBSITE.
   </li>
   <li> Fill the Subject Details and Practical details as per the Stream of the Subject)
     <p>
-    <img src="img/Screenshot (27).png" width="480">
-    <img src="img/Screenshot (28).png" width="480">
+    <img src="img/Screenshot (27).png" width="400">
+    <img src="img/Screenshot (28).png" width="400">
     </p>
     <p align="center">
        <img src="img/Screenshot (29).png" width="450" >
@@ -31,21 +31,33 @@ AND HERE YOU ARE READY TO USE THE WEBSITE.
   </li>
   <li> Access Edit/ Delete the Records
     <p>
-      <img src="img/Screenshot (30).png" width="480">
-      <img src="img/Screenshot (31).png" width="480">
+      <img src="img/Screenshot (30).png" width="400">
+      <img src="img/Screenshot (31).png" width="400">
     </p>
     <p align="center">
-      <img src="img/Screenshot (32).png" width="480">
+      <img src="img/Screenshot (32).png" width="450">
     </p>
   </li>
 <li> option of Generate/ Update/ View(Save) Timetable
   <p align="center">
-    <img src="img/Screenshot (34).png" width="500">
+    <img src="img/Screenshot (34).png" width="450">
   </p>
 </li>
 
+<li> Create Timetable
+<p align="center">
+<img src="img/Screenshot (5).png" width="450">
+  </p>
+  </li>
+<li> Edit Created Timetable
+  <p align="center">
+  <img src="img/Screenshot (6).png" width="450">
+  </p>
+  </li>
 
-<img src="img/Screenshot (5).png" width="500">
-<img src="img/Screenshot (6).png" width="500">
-<img src="img/p11.png" width="500">
+<li> Save the Time tble in PDF Format
+  <p align="center">
+<img src="img/p11.png" width="450">
+ </p>
+</li>
 <ol>

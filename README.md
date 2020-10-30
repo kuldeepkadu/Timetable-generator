@@ -6,4 +6,4 @@ Generating and saving timetable as pdf using tcPDF.
 Note: CREATE DATABASE OF NAME 'datatable' AND IMPORT FILE OF NAME datatable.sql INTO IT. 
 AND HERE YOU ARE READY TO USE THE WEBSITE.
 
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/Screenshot (20).png)

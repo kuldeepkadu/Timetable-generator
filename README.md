@@ -6,15 +6,20 @@ Generating and saving timetable as pdf using tcPDF.
 Note: CREATE DATABASE OF NAME 'datatable' AND IMPORT FILE OF NAME datatable.sql INTO IT. 
 AND HERE YOU ARE READY TO USE THE WEBSITE.
 
-1) FOR LOGIN AND SIGNUP
-<p align="center">
-  <img src="img/Screenshot (20).png" width="400" title="Login">
-  <img src="img/Screenshot (21).png" width="400" alt="Sign Up">
-</p>
+<ol>
+  <li> FOR LOGIN AND SIGNUP
+    <p align="center">
+      <img src="img/Screenshot (20).png" width="400" title="Login">
+      <img src="img/Screenshot (21).png" width="400" alt="Sign Up">
+    </p>
+   </li>
 
-2) HOME PAGE
+<li> HOME PAGE (Header with option of add SUbject/ Practical and Teacher and also access that Record)
+<p align="center">
 <img src="img/Screenshot (23).png" width="500">
 <img src="img/Screenshot (25).png" width="500">
+</p>
+</li>
 <img src="img/Screenshot (27).png" width="500">
 <img src="img/Screenshot (28).png" width="500">
 <img src="img/Screenshot (29).png" width="500">
@@ -24,3 +29,5 @@ AND HERE YOU ARE READY TO USE THE WEBSITE.
 <img src="img/Screenshot (33).png" width="500">
 <img src="img/Screenshot (34).png" width="500">
 <img src="img/Screenshot (40).png" width="500">
+
+<ol>

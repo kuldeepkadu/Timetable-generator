@@ -13,4 +13,5 @@ FOR LOGIN AND SIGNUP
 </p>
 
 
-<img src="img/Screenshot (23).png">
+<img src="img/Screenshot (23).png" width="500">
+<img src="img/Screenshot (25).png" width="500">

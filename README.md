@@ -24,18 +24,24 @@ AND HERE YOU ARE READY TO USE THE WEBSITE.
     <p>
     <img src="img/Screenshot (27).png" width="480">
     <img src="img/Screenshot (28).png" width="480">
-    <img src="img/Screenshot (29).png" width="450" align="center">
-      </p>
+    </p>
+    <p align="center">
+       <img src="img/Screenshot (29).png" width="450" >
+    </p>
   </li>
   <li> Access Edit/ Delete the Records
-      <p>
-    <img src="img/Screenshot (30).png" width="480">
-    <img src="img/Screenshot (31).png" width="480">
-    <img src="img/Screenshot (32).png" width="480" align="center">
+    <p>
+      <img src="img/Screenshot (30).png" width="480">
+      <img src="img/Screenshot (31).png" width="480">
+    </p>
+    <p align="center">
+      <img src="img/Screenshot (32).png" width="480">
     </p>
   </li>
 <li> option of Generate/ Update/ View(Save) Timetable
-<img src="img/Screenshot (34).png" width="500"  align="center">
-
+  <p align="center">
+    <img src="img/Screenshot (34).png" width="500">
+  </p>
+</li>
 
 <ol>

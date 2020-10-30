@@ -16,8 +16,8 @@ AND HERE YOU ARE READY TO USE THE WEBSITE.
 
 <li> HOME PAGE (Header with option of add SUbject/ Practical and Teacher and also access that Record)
 <p align="center">
-<img src="img/Screenshot (23).png" width="500">
-<img src="img/Screenshot (25).png" width="500">
+<img src="img/Screenshot (23).png" width="480">
+<img src="img/Screenshot (25).png" width="480">
 </p>
 </li>
 <img src="img/Screenshot (27).png" width="500">
